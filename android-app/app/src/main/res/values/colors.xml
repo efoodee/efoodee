@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26C6DA</color>
+    <color name="colorPrimaryDark">#26C6DA</color>
+    <color name="colorAccent">#26C6DA</color>
+    <color name="screenBackground">#2196F3</color>
+    <color name="btnSignUp">#26C6DA</color>
+    <color name="btnSignUpActive">#C4D925</color>
+    <color name="screenBackground2">#26C6DA</color>
+</resources>

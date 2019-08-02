@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426247919278",
+    "firebase_url": "https://efoodee-e5349.firebaseio.com",
+    "project_id": "efoodee-e5349",
+    "storage_bucket": "efoodee-e5349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426247919278:android:2f2276bcdb8251e1",
+        "android_client_info": {
+          "package_name": "com.foodbank.efoodee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426247919278-elml76s0288ac33g61cu6upd9s6uthhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBuUq-VLuw9NYSbPgpLTQmaIBIp_yNt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426247919278-elml76s0288ac33g61cu6upd9s6uthhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
